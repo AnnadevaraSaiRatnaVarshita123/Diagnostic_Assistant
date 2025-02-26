@@ -63,15 +63,18 @@ MediAssist/
 
 ---
 
-## 📸 Screenshots & Demo
-### Symptom Checker UI
-![Symptom Checker](assets/symptom_checker.png)
+## 📸 **Screenshots**
+## 🔍 **Symptom Checker UI**
+![Symptom Checker](https://github.com/user-attachments/assets/d5a35363-9d44-4a57-91c1-861d40d93e1c)
+![Symptom Checker](https://github.com/user-attachments/assets/47b2c6e7-f56e-4155-aaa3-5d338b5589c6)
 
-### Medical Report Analysis UI
-![Medical Report](assets/medical_report.png)
+## 📄 **Medical Report Analysis UI**
+![Medical Report](https://github.com/user-attachments/assets/14fa702d-abd0-4532-a276-6bcb640b77f2)
+![Medical Report](https://github.com/user-attachments/assets/c06530e9-7019-4fcb-ab6d-016e8f0766c3)
+![Medical Report](https://github.com/user-attachments/assets/14af5671-ce04-4620-9355-c079800094dc)
 
-### Medication Analysis UI
-![Medication Analysis](assets/medical_report.png)
+## 💊 **Medication Analysis UI**
+![Medication Analysis](https://github.com/user-attachments/assets/af35fdac-2f52-4e49-9b5a-32d61ffe747d)
 
 ---
 
