@@ -77,6 +77,11 @@ MediAssist/
 ![Medication Analysis](https://github.com/user-attachments/assets/af35fdac-2f52-4e49-9b5a-32d61ffe747d)
 
 ---
+## 🎥 **Experience MediAssist in Action!**  
+[![Watch the Demo](https://img.shields.io/badge/📽️%20Watch%20Demo-Click%20Here-blue?style=for-the-badge)](https://drive.google.com/file/d/1c4je-Vl1aAsHDdwTaXHouM1PGTx7lxPl/view?usp=sharing)
+
+
+---
 
 ## 📜 License
 This project is licensed under the MIT License. See `LICENSE` for details.
