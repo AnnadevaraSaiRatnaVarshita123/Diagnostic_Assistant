@@ -78,7 +78,7 @@ MediAssist/
 
 ---
 ## 🎥 **Experience MediAssist in Action!**  
-[![Watch the Demo](https://img.shields.io/badge/📽️%20Watch%20Demo-Click%20Here-blue?style=for-the-badge)](https://drive.google.com/file/d/1c4je-Vl1aAsHDdwTaXHouM1PGTx7lxPl/view?usp=sharing)
+[![Watch the Demo](https://img.shields.io/badge/📽️%20Watch%20Demo-Click%20Here-blue?style=for-the-badge)](https://drive.google.com/file/d/1K7xVughKGuXprT5dOArAo-OtTVFy0sdu/view?usp=sharing)
 
 
 ---
